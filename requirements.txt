@@ -6,7 +6,7 @@ Markdown
 tokenizers
 transformers==4.49.0
 unsloth==2025.4.1
-unsloth_zoo==2025.3.4
+unsloth_zoo==2025.4.1
 unstructured
 vllm==0.8.4
 wandb
