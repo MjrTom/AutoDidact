@@ -8,5 +8,5 @@ transformers==4.51.3
 unsloth==2025.4.4
 unsloth_zoo==2025.4.4
 unstructured
-vllm==0.8.5
+vllm==0.9.0
 wandb
