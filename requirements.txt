@@ -5,7 +5,7 @@ langchain-community
 Markdown
 tokenizers
 transformers==4.51.3
-unsloth==2025.4.4
+unsloth==2025.5.9
 unsloth_zoo==2025.4.4
 unstructured
 vllm==0.8.5
