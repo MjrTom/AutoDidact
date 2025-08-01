@@ -4,7 +4,7 @@ langchain
 langchain-community
 Markdown
 tokenizers
-transformers==4.53.0
+transformers==4.54.1
 unsloth==2025.6.12
 unsloth_zoo==2025.6.8
 unstructured
